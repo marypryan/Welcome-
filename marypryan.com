@@ -1,5 +1,5 @@
 # hello.world
-<.com >
+<marypryan.com >
 <title>
   <Mary Ryan>
 </title>
@@ -15,4 +15,4 @@
    text-align:center;
    }
 </style>
-<.com>
+<marypryan.com>
