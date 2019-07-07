@@ -1,5 +1,5 @@
 
-<.com >
+<html>
 <title>
   <Welcome to my page >
 </title>
@@ -18,4 +18,4 @@
    }
 </style>
 
-< /.com >
+< /.html>
