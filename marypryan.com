@@ -1,7 +1,7 @@
 
 <.com >
 <title>
-  <Mary Ryan>
+  <Welcome to my page >
 </title>
 </.com>
  <h1> About me </h1>
