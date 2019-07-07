@@ -13,7 +13,7 @@
  
  {
    background-color:green;
-   color:#fff;
+   color:#000000;
    text-align:center;
    
    }
