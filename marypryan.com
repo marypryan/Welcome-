@@ -1,5 +1,5 @@
 
-<marypryan.com >
+<.com >
 <title>
   <Mary Ryan>
 </title>
@@ -15,4 +15,4 @@
    text-align:center;
    }
 </style>
-< marypryan.com >
+< /.com >
