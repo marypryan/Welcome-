@@ -9,10 +9,14 @@
  <h3> resources </h3>
 
 <style>
- body{
+ body
+ 
+ {
    background-color:green;
    color:#fff;
    text-align:center;
+   
    }
 </style>
+
 < /.com >
