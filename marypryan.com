@@ -1,5 +1,5 @@
 # hello.world
-<.com >
+<.com>
 <title>
   <Mary Ryan>
 </title>
@@ -14,5 +14,5 @@
    color:#fff;
    text-align:center;
    }
-</style>
-<.com>
+ </style>
+</.com>
